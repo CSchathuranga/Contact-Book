@@ -1,0 +1,45 @@
+D:\Visual Studio\Assignment\Assignment\bin\Debug\Assignment.exe.config
+D:\Visual Studio\Assignment\Assignment\bin\Debug\Assignment.exe
+D:\Visual Studio\Assignment\Assignment\bin\Debug\Assignment.pdb
+D:\Visual Studio\Assignment\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+D:\Visual Studio\Assignment\Assignment\obj\Debug\Assignment.csproj.GenerateResource.cache
+D:\Visual Studio\Assignment\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Assignment\Assignment\obj\Debug\Assignment.exe
+D:\Visual Studio\Assignment\Assignment\obj\Debug\Assignment.pdb
+D:\Visual Studio\Assignment\Assignment\obj\Debug\Assignment.frmAdd.resources
+D:\Visual Studio\Assignment\Assignment\obj\Debug\Assignment.frmMain.resources
+D:\Visual Studio\Assignment\Assignment\obj\Debug\Assignment.User.resources
+D:\Visual Studio\Assignment\Assignment\obj\Debug\Assignment.csprojAssemblyReference.cache
+D:\Visual Studio\Assignment\Assignment\obj\Debug\Assignment.frmupdate.resources
+D:\Visual Studio\Assignment\Assignment\obj\Debug\Assignment.frmview.resources
+D:\Visual Studio\Assignment\Assignment\obj\Debug\Assignment.frmdelete.resources
+E:\Assignment\Assignment\bin\Debug\Assignment.exe.config
+E:\Assignment\Assignment\bin\Debug\Assignment.exe
+E:\Assignment\Assignment\bin\Debug\Assignment.pdb
+E:\Assignment\Assignment\obj\Debug\Assignment.csprojAssemblyReference.cache
+E:\Assignment\Assignment\obj\Debug\Assignment.frmadd.resources
+E:\Assignment\Assignment\obj\Debug\Assignment.frmdelete.resources
+E:\Assignment\Assignment\obj\Debug\Assignment.frmmain.resources
+E:\Assignment\Assignment\obj\Debug\Assignment.frmupdate.resources
+E:\Assignment\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+E:\Assignment\Assignment\obj\Debug\Assignment.user.resources
+E:\Assignment\Assignment\obj\Debug\Assignment.frmview.resources
+E:\Assignment\Assignment\obj\Debug\Assignment.csproj.GenerateResource.cache
+E:\Assignment\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+E:\Assignment\Assignment\obj\Debug\Assignment.exe
+E:\Assignment\Assignment\obj\Debug\Assignment.pdb
+C:\Users\SUPRIME\Desktop\Assignment\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\SUPRIME\Desktop\Assignment\Assignment\bin\Debug\Assignment.exe
+C:\Users\SUPRIME\Desktop\Assignment\Assignment\bin\Debug\Assignment.pdb
+C:\Users\SUPRIME\Desktop\Assignment\Assignment\obj\Debug\Assignment.csprojAssemblyReference.cache
+C:\Users\SUPRIME\Desktop\Assignment\Assignment\obj\Debug\Assignment.frmadd.resources
+C:\Users\SUPRIME\Desktop\Assignment\Assignment\obj\Debug\Assignment.frmdelete.resources
+C:\Users\SUPRIME\Desktop\Assignment\Assignment\obj\Debug\Assignment.frmmain.resources
+C:\Users\SUPRIME\Desktop\Assignment\Assignment\obj\Debug\Assignment.frmupdate.resources
+C:\Users\SUPRIME\Desktop\Assignment\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\SUPRIME\Desktop\Assignment\Assignment\obj\Debug\Assignment.user.resources
+C:\Users\SUPRIME\Desktop\Assignment\Assignment\obj\Debug\Assignment.frmview.resources
+C:\Users\SUPRIME\Desktop\Assignment\Assignment\obj\Debug\Assignment.csproj.GenerateResource.cache
+C:\Users\SUPRIME\Desktop\Assignment\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\SUPRIME\Desktop\Assignment\Assignment\obj\Debug\Assignment.exe
+C:\Users\SUPRIME\Desktop\Assignment\Assignment\obj\Debug\Assignment.pdb
